@@ -665,11 +665,6 @@ The global error handler (`middlewares/errorHandler.js`) provides specific handl
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
 
 <div align="center">
   <strong>Built with ❤️ for ITSimplera Internship Program</strong>
