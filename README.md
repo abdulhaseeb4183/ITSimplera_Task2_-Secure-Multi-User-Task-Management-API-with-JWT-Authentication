@@ -14,6 +14,15 @@
 
 ---
 
+## 📄 Project Documentation
+
+For complete step-by-step documentation, database schemas, API references, and verification guides, please refer to:
+* **[Interactive Markdown Documentation (DOCUMENTATION.md)](DOCUMENTATION.md)**
+* **[Downloadable PDF Documentation (Documentation_Task_2.pdf)](Documentation_Task_2.pdf)**
+
+---
+
+
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
